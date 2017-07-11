@@ -1,19 +1,21 @@
+body {
+  Helvetica; sans-serif;
+}
 
-body { Helvetica; sans-serif;
-}
 .card {
-background: cyan;
-max-width: 300px;
-border-style: solid;
-border-color: blue;
-border-width: 5px;
-padding:10px;
+  background: cyan;
+  max-width: 300px;
+  border-style: solid;
+  border-color: blue;
+  border-width: 5px;
+  padding: 10px;
 }
+
 .card h3 {
   text-align: center;
-  border: 0px;
-  padding: 0px;
-  margin: 0px;
+  border: 0;
+  padding: 0;
+  margin: 0;
 }
 
 .card img {
@@ -23,31 +25,33 @@ padding:10px;
 }
 
 .fact {
-border-style: solid;
-margin-top: 10px;
-border-radius: 15px;
-padding: 8px;
-background-color: #b5fff6;
+  border-style: solid;
+  margin-top: 10px;
+  border-radius: 15px;
+  padding: 8px;
+  background-color: #b5fff6;
 }
 
 .fact p {
-font-style: italic;
-border-style: none;
-margin: 0px;
-padding: 0px;
+  font-style: italic;
+  border-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .info {
-  margin-top:10px;
-  padding: 0px;
+  margin-top: 10px;
+  padding: 0;
   list-style-type: none;
   margin-bottom: 10px;
-  }
+}
 
 .info span {
-    font-weight: bold;
-  }
+  font-weight: bold;
+}
 
 .info p {
-    font-style: normal;
-  }
+  font-style: normal;
+}
+
+ 
